@@ -60,22 +60,22 @@ nav a:hover {
 }
 
 .produtos li:hover h2 {
-	font-size: 34px;
+	font-size: 30px;
 }
 
 .produtos h2 {
-	font-size: 30px;
+	font-size: 20px;
 	font-weight: bold;
 }
 
 .produto-descricao {
-	font-size: 18px;
+	font-size: 14px;
 }
 
 .produto-preco {
 	font-size: 22px;
 	font-weight: bold;
-	margin-top: 10px;
+	margin-top: 8px;
 }
 
 footer {
